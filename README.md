@@ -22,19 +22,9 @@ I'm a Senior Android Developer.
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 🔭 I’m currently working on [Binge Tv]()  
-  
 
-- 🌱 I’m currently learning Flutter  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+- 🌱 I’m currently learning Flutter 
 
 <br/>  
 
