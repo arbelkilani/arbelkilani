@@ -1,6 +1,12 @@
 ## Hi, I'm Ahmed Radhouane Belkilani  
   
 
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=arbelkilani&&style=flat-square)  
+
+<br/>  
+
 <a href="https://github.com/arbelkilani" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -46,15 +52,4 @@ I'm a Senior Android Developer.
 
   
 
-<br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=arbelkilani&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
